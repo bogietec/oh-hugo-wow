@@ -25,7 +25,7 @@ phone: (508) 492-9550
 
 contact_links:
 #  - icon: comments
-#    icon_pack: fas
+#hu    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
 
@@ -57,7 +57,7 @@ show_related:
   project: true
   publication: true
   talk: true
-reading_time: true
+reading_time: false
 section_pager: false
 sharing: true
 copyright_license:

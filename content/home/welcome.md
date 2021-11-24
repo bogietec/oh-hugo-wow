@@ -5,18 +5,16 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: |
-
-hero_media: pantokrator-chora.jpg
+weight: 20  # Order that this section will appear.
+title:
+subtitle: ""
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
+  columns: '2'
+advanced:
   css_style:
   css_class:
 ---
 
-<br>
-
-The **Orthodox church** is the concrete embodiment and communicator of the blessing of the Triune God – Father, Son, and Holy Spirit, on the whole of mankind and the entire universe
+> "The **Orthodox church** is the concrete embodiment and communicator of the blessing of the Triune God – Father, Son, and Holy Spirit, on the whole of mankind and the entire universe."    
+Fr. George Dragas
