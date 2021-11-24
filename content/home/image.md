@@ -2,14 +2,14 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: pantokrator
+widget_id: blank
 headless: true
-weight: 10
+weight: 30
 title: null
 subtitle: null
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: coders.jpg
     image_darken: 0
