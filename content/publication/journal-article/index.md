@@ -1,5 +1,6 @@
 ---
 title: "An example journal article"
+active: false
 authors:
 - admin
 - Robert Ford

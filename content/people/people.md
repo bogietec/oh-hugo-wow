@@ -1,5 +1,6 @@
 ---
 # An instance of the People widget.
+active: false
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
 

@@ -28,4 +28,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
+  min-height: 100%;
 ---

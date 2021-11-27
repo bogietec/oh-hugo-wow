@@ -1,5 +1,6 @@
 ---
 title: Latest News
+active: false
 
 # View.
 #   1 = List
