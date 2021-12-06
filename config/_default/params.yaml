@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
+theme: oh_theme
+day_night: true
 font: native
 font_size: L
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: info(at)orthodoxhorizons.org
+email: info@orthodoxhorizons.org
 phone: (508) 492-9550
 
 contact_links:
@@ -30,10 +30,11 @@ contact_links:
 #    link: 'https://discourse.gohugo.io'
 
 # Site header
+# Main menu alignment (l = left, c = center, r = right) and logo options.
 
 main_menu:
   enable: true
-  align: r
+  align: c
   show_logo: true
   show_language: false
   show_day_night: true

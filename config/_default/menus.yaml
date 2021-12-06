@@ -4,18 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: 🎓️ Courses
+    url: post
+    weight: 10
+  - name: 📚️ Books
+    url: '#books'
+    weight: 20
+  - name: 📃 Articles
+    url: 
+    weight: 30
+  - name: ✍🏻 WikiNotes
+    url: 
+    weight: 40
   - name: News
     url: post
-    weight: 20
-  - name: Team
+    weight: 90
+  - name: 👥 Team
     url: people
-    weight: 30
+    weight: 60
   - name: Events
     url: event
-    weight: 40
+    weight: 100
   - name: Publications
     url: publication
-    weight: 50
-  - name: Contact
+    weight: 500
+  - name: 📧 Contact
     url: contact
     weight: 60

@@ -4,18 +4,19 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
-active: false
 headless: true  # This file represents a page section.
-weight: 20  # Order that this section will appear.
-title:
+weight: 10  # Order that this section will appear.
+title: Orthodox Horizons
 subtitle: ""
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 advanced:
   css_style:
   css_class:
 ---
 
-> "The **Orthodox church** is the concrete embodiment and communicator of the blessing of the Triune God – Father, Son, and Holy Spirit, on the whole of mankind and the entire universe."    
-Fr. George Dragas
+<br>
+
+🎓️ Courses, 📚️ Books, 📃 Articles, and ✍🏻 Notes about the Orthodox fath, Church, and Tradition
